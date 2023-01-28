@@ -1,6 +1,11 @@
 """Snake in Python"""
 
-def main():
-    print("Hi")
-    return
-main()
+def setup():
+    print("""HI""")
+def loop():
+    while True:
+        ##Here
+        print("hI")
+
+setup()
+loop()
