@@ -26,11 +26,15 @@ void DisplayBoard(){
     cls();
     for (int i = 0; i <= height; i++)
     {
-        for (int x = 0; x <= width; x++)
+        for (int j = 0; j <= width; j++)
         {
-            if (x == 0 || x == width || i == 0 || i == height)
+            if (j == 0 || j == width || i == 0 || i == height)
             {
                 cout << "#";
+                continue;
+            }
+            if(i == y && j == x){
+                cout << "O";
                 continue;
             }
             cout << " ";                
