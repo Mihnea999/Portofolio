@@ -1,0 +1,3 @@
+﻿  SNAKE.cpp
+C:\Users\tligh\source\repos\SNAKE\SNAKE.cpp(174,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SNAKE.vcxproj -> C:\Users\tligh\source\repos\SNAKE\x64\Debug\SNAKE.exe
