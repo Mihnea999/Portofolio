@@ -1,0 +1,8 @@
+﻿  pong.cpp
+C:\Users\tligh\OneDrive\Documents\GitHub\Portofolio\C++\GAMES\pong\pong.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  2 of 21 functions ( 9.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  pong.vcxproj -> C:\Users\tligh\OneDrive\Documents\GitHub\Portofolio\C++\GAMES\pong\x64\Release\pong.exe
